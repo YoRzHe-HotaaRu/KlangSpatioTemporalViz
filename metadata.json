@@ -1,0 +1,5 @@
+{
+  "name": "Klang Valley Transit Pulse",
+  "description": "A spatio-temporal visualization dashboard analyzing transit flow and attraction popularity in Klang Valley, Malaysia, powered by Gemini AI analysis.",
+  "requestFramePermissions": []
+}
